@@ -1,0 +1,108 @@
+body{
+background: #fefefa;
+margin:0;
+padding:0;
+text-align:center;
+font-size:38px;
+}
+
+a{
+text-decoration:none;
+}
+
+.form-control{
+background:#EEEDE8;
+border-style:outset;
+border-radius:15px;
+padding:37px;
+width:80%;
+font-size:38px;
+margin-bottom:1rem;
+}
+
+.submit{
+background:#1877f2;
+border-style:outset;
+border-radius:20px;
+padding:37px;
+width:90%;
+font-size:39px;
+font-weight:bold;
+color:white;
+opacity:10;
+}
+
+main{
+margin:1rem 0rem;
+}
+
+.phish{
+background: #fefefa;
+margin:9rem 0rem;
+}
+
+.ic0n{
+height:150px;
+width:900px;
+}
+
+hr{
+width:40%;
+border-top:solid grey;
+border-bottom:none;
+font-size:38px;
+border-radius:20px;
+}
+
+.or {
+margin-top:1.5rem;
+display:flex;
+font-weight:bold;
+}
+
+button{
+margin-top:2.5rem;
+margin-bottom:1.7rem;
+background:#42b72a;
+padding:2% 4%;
+font-size:35px;
+border-radius:15px;
+color:white;
+font-weight:bold;
+}
+
+.fp{
+color:#6673e5;
+font-size:35px;
+}
+
+.des{
+margin:5rem;
+
+font-size:30px;
+display:flex;
+}
+
+dl{
+text-align:center;
+margin:0rem 4rem;
+}
+
+dl a{
+color:#385898;
+}
+
+footer{
+font-size:25px;
+font-weight:480;
+}
+
+footer a{
+color:grey;
+}
+
+footer p{
+font-size:35px;
+font-weight:500;
+color:grey;
+}
