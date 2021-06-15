@@ -1,0 +1,82 @@
+/* main elements*/
+
+body {
+margin:0;
+padding:0;
+background:teal;
+
+}
+
+img {
+width:100%;
+height:100%;
+}
+
+nav {
+text-align:center;
+padding:15px 0px;
+background:brown;
+
+}
+
+nav a{
+padding:7.5px 10px;
+border:solid;
+text-decoration:none;
+background:teal;
+color:black;
+}
+
+header {
+text-align:center;
+color:teal;
+background:violet;
+padding:15px;
+}
+
+
+aside {
+text-align:right;
+margin-right:15px;
+}
+
+footer {
+position:fixed;
+background:black;
+padding:7.5px 0px;
+display:flex;
+width:100%;
+bottom:0;
+}
+
+footer a {
+text-decoration:none;
+color:green;
+width:20%;
+}
+
+
+/*signup elements*/
+
+.login,.signup {
+background:teal;
+}
+
+form {
+margin:25px;
+}
+
+
+form a {
+text-decoration:none;
+}
+
+/*dashboard*/
+.dashboard{
+height:1000px;
+}
+
+/*welcome*/
+.section1 {
+height:1000px;
+}
