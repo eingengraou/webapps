@@ -1,7 +1,5 @@
 # My-sites
 
 
-this is arepo containing all the sites i own.
+this is a repo containing all the sites i've made.
 
-
-chuxizaaaac.zip is very important...
